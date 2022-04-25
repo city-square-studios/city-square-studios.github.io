@@ -1,20 +1,21 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
-date:   2022-04-21 21:13:18 +1200
-categories: dan
-author: Dan
+title:  "Dylan's Post!"
+date:   2022-04-24 21:13:18 +1200
+categories: jekyll update
+author: Dylan
 # Write unique excerpts that are used for SEO and previews
 excerpt: This is a test
 # Header assets that can be injected atop the post
 header:
   # Header image should be a wide aspect ratio  compressed `.jpg` format
   # image: /assets/images/logo_no_text.png
-  # Teaser images should be at lower resolutions (i.e, ~500*300) compressed `.jpg` format
+  # Teaser images should be at lower resolutions (i.e, ~250*150) compressed `.jpg` format
   # teaser: /assets/images/logo_no_text.png
   # Caption is rendered in the bottom-right corner of the image
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
+![My helpful screenshot](/assets/images/logo_no_text.png)
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:

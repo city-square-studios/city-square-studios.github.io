@@ -7,13 +7,19 @@
 #
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: City Square Studios Blog
+
+title: The City Square Blog
+masthead_title: "Blog"
 email: hello@citysquarestudios.com
 description: >- # this means to ignore newlines until "baseurl:"
   City Square Studios' official blog.
@@ -23,19 +29,50 @@ twitter_username: MrMCandR
 github_username:  MrMCandR
 
 # Build settings
-markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "dark"
+theme: jekyll-theme-minimal # A Jekyll theme has to be set for the GH page to publish (but is ignored, and the remote theme is used instead)
+
+# Minimal Mistakes remote theme config
+minimal_mistakes_skin: 'dark'
+repository: 'city-square-studios/city-square-studios.github.io.git'
+logo: "/assets/images/logo_no_text.png"
+teaser: "/assets/images/logo_no_text.png" # Default teaser for all posts
+search: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      share: true
+      related: true
+      show_date: true
+      read_time: true
+
+# Analytics
+google_analytics: G-37K28GHVK2
+
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
 # exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
-#   - node_modules
+#   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
