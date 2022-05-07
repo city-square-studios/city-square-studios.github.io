@@ -1,11 +1,11 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
-date:   2022-04-21 21:13:18 +1200
-categories: dan
+title:  "Something new comes this way..."
+date:   2022-05-08 10:44:18 +1200
+categories: company
 author: Dan
 # Write unique excerpts that are used for SEO and previews
-excerpt: This is a test
+excerpt: Something new comes this way...
 # Header assets that can be injected atop the post
 header:
   # Header image should be a wide aspect ratio  compressed `.jpg` format
