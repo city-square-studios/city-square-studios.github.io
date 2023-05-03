@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Introducing 52 Pickup"
+title:  "Introducing: 52 Pickup Zine"
 date:   2023-05-04 10:44:18 +1200
 categories: 52pickup
 author: Dylan
@@ -20,16 +20,22 @@ header:
 
 ## Why?
 Creating board games generally takes a long time, between designing, developing, play testing, manufacturing, and publishing you can be working on the same project for over a year. However what if during this process you keep having ideas but don’t want to go several large development projects on the go at once?
+
 Well, in our case, you throw all these ideas together into micro magazines to get them out of your head while working on the main grind. These ideas won’t be as polished as main projects, but look to explore mechanics on a smaller scale on a much faster timeframe.
 
 ## What?
 52 Pickup has several aims as a Zine: 
-1. Be board/card game inspired
-• Not every issue will contain games, but every issues content will be inspired by games 
-2. Explore ideas at a small scale
-• Content will be contained within the Zine and won’t require readers to go searching in other places
-3. Content is generally accessible
-• Games printed will aim to playable with standard playing cards, six sided dice,
+1. **Be board/card game inspired**
+
+Not every issue will contain games, but every issues content will be inspired by games
+
+2. **Explore ideas at a small scale**
+
+Content will be contained within the Zine and won’t require readers to go searching in other places
+
+3. **Content is generally accessible**
+
+Games printed will aim to playable with standard playing cards, six sided dice,
 household items, or what’s in the Zine, staying away from special components
 
 ## What’s in a name?
