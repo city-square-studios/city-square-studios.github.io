@@ -16,7 +16,11 @@ header:
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
+# Introducing: 52 Pickup Zine
+
 52 Pickup is an irregularly published Zine for board game, card game, and adjacent content. Issues can include things like standard playing card games, micro board games, and other content inspired by games.
+
+![52 Pickup Zine](/assets/images/posts/2023-05-04-52pickup-intro/52pickup-issue-1.png)
 
 ## Why?
 Creating board games generally takes a long time, between designing, developing, play testing, manufacturing, and publishing you can be working on the same project for over a year. However what if during this process you keep having ideas but don’t want to go several large development projects on the go at once?
