@@ -27,17 +27,18 @@ Well, in our case, you throw all these ideas together into micro magazines to ge
 
 ## What?
 52 Pickup has several aims as a Zine: 
-1. **Be board/card game inspired**
 
-Not every issue will contain games, but every issues content will be inspired by games
+###1. **Be board/card game inspired**
 
-2. **Explore ideas at a small scale**
+- Not every issue will contain games, but every issues content will be inspired by games
 
-Content will be contained within the Zine and won’t require readers to go searching in other places
+### 2. **Explore ideas at a small scale**
 
-3. **Content is generally accessible**
+- Content will be contained within the Zine and won’t require readers to go searching in other places
 
-Games printed will aim to playable with standard playing cards, six sided dice,
+### 3. **Content is generally accessible**
+
+- Games printed will aim to be playable with standard playing cards, six sided dice,
 household items, or what’s in the Zine, staying away from special components
 
 ## What’s in a name?
