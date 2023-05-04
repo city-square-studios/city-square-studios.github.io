@@ -1,6 +1,6 @@
 Dylan:
   name: "Dylan"
-  avatar: "https://picsum.photos/300/300"
+  avatar: "/assets/images/authors/dylan_profile.png"
   bio: "Leads game design at City Square Studios" # Note: Markdown is allowed
   location: "New Zealand 🇳🇿"
   links:
@@ -9,7 +9,7 @@ Dylan:
       url: "https://www.citysquarestudios.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/citysquare4"
+      url: "https://twitter.com/CitySquareLtd"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "http://facebook.com/CitySquareStudios/"
@@ -31,7 +31,7 @@ Dan:
       url: "https://www.citysquarestudios.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/citysquare4"
+      url: "https://twitter.com/CitySquareLtd"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook"
       url: "http://facebook.com/CitySquareStudios/"
