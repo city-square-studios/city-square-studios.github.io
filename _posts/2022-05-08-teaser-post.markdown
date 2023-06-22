@@ -21,6 +21,6 @@ Something new comes this way... Stay tuned 🤫
 
 <iframe
     scrolling="no"
-    style="width:100%!important;height:220px;border:1px #ccc solid !important"
+    style="width:100%!important;height:150px;border:0px #ccc solid !important"
     src="https://buttondown.email/CitySquareStudios?as_embed=true"
 ></iframe>
