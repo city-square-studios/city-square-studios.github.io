@@ -1,0 +1,60 @@
+---
+layout: single
+title:  "52 Pickup Issue One"
+date:   2023-05-15 10:44:18 +1200
+categories: 52pickup
+author: Dylan
+# Write unique excerpts that are used for SEO and previews
+excerpt: Zine for board game, card game, and adjacent content
+# Header assets that can be injected atop the post
+header:
+  # Header image should be a wide aspect ratio  compressed `.jpg` format
+  # image: /assets/images/logo_no_text.png
+  # Teaser images should be at lower resolutions (i.e, ~500*300) compressed `.jpg` format
+  # teaser: /assets/images/logo_no_text.png
+  # Caption is rendered in the bottom-right corner of the image
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+---
+
+Issue 1 (April 2023) of 52 Pickup is our first Standard Playing Card Edition, which contains two games you can play with a standard deck (or decks) of playing cards.
+
+![52 Pickup Zine](/assets/images/posts/2023-05-04-52pickup-intro/52pickup-issue-1.png)
+
+## The Games
+
+### Escape the Pet Shop!
+A co-op game for 1-2 players where you attempt to escape a Pet Shop by evading its owner! It contains elements of set collection, grid movement, and hand management.
+
+### It Approaches!
+Something diabolical draws near. Out-bluff your opponents to keep your best resources before IT APPROACHES! A game for 2-4+ players per deck of cards. It contains elements of bluffing and memory.
+
+## Designer Notes
+
+### Escape the Pet Shop!
+Escape the Pet Shop! is my attempt to simplify some of my favorite mechanics in co-op games, making it playable with a standard deck of cards. I believe there is plenty of opportunity for expansion, such as introducing character abilities for the players and bringing in a custom deck with art. You may see further development in this space.
+
+The main games that inspired me were [Forbidden Desert (Matt Leacock, 2013)](https://boardgamegeek.com/boardgame/136063/forbidden-desert) and [Transformers: The Deck Building Game (Dan Blanchette, Matt Hyra, 2021)](https://boardgamegeek.com/boardgame/337961/transformers-deck-building-game).
+
+### It Approaches!
+It Approaches was designed to fit in the simplest of spaces, where you can play with a group of people at a very low skill level. My intention was to create a party game that still involves a bit of skill and strategy, rather than relying solely on luck.
+
+The main games that inspired me were Get Bit! (Dave Chalker, 2007), Poker, and Liar's Dice.
+
+## Credits
+- Art by Josie Bedford (@josie.tattoos)
+- Design by Dylan Byrne
+- Produced by Daniel Gratwicke
+
+## Availability
+52 Pickup is currently only available upon request (by emailing hello@citysquarestudios.com) or physically at markets we attend. We are currently working on making 52 Pickup more easily accessible both online and physically.
+
+You can sign up for our newsletter to receive updates in this space and our general development updates:
+
+<iframe
+    scrolling="no"
+    style="width:100%!important;height:150px;border:0px #ccc solid !important"
+    src="https://buttondown.email/CitySquareStudios?as_embed=true"
+></iframe>
+
+## More Info
+You can find more information about 52 Pickup [here](https://blog.citysquarestudios.com/52pickup/2023/05/03/52pickup-post.html).
