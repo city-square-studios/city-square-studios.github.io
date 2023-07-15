@@ -1,11 +1,11 @@
 ---
 layout: single
-title:  "52 Pickup Issue One"
+title:  "52 Pickup: Issue #1 - Card Games"
 date:   2023-05-15 10:44:18 +1200
 categories: 52pickup
 author: Dylan
 # Write unique excerpts that are used for SEO and previews
-excerpt: Zine for board game, card game, and adjacent content
+excerpt: A Zine containing two standard playing card games
 # Header assets that can be injected atop the post
 header:
   # Header image should be a wide aspect ratio  compressed `.jpg` format
@@ -38,7 +38,7 @@ The main games that inspired me were [Forbidden Desert (Matt Leacock, 2013)](htt
 ### It Approaches!
 It Approaches was designed to fit in the simplest of spaces, where you can play with a group of people at a very low skill level. My intention was to create a party game that still involves a bit of skill and strategy, rather than relying solely on luck.
 
-The main games that inspired me were Get Bit! (Dave Chalker, 2007), Poker, and Liar's Dice.
+The main games that inspired me were [Get Bit! (Dave Chalker, 2007)](https://boardgamegeek.com/boardgame/30539/get-bit), Poker, and Liar's Dice.
 
 ## Credits
 - Art by Josie Bedford (@josie.tattoos)
@@ -46,7 +46,7 @@ The main games that inspired me were Get Bit! (Dave Chalker, 2007), Poker, and L
 - Produced by Daniel Gratwicke
 
 ## Availability
-52 Pickup is currently only available upon request (by emailing hello@citysquarestudios.com) or physically at markets we attend. We are currently working on making 52 Pickup more easily accessible both online and physically.
+52 Pickup is currently only available upon request (by emailing [hello@citysquarestudios.com](mailto:hello@citysquarestudios.com)) or physically at markets we attend. We are currently working on making 52 Pickup more easily accessible both online and physically.
 
 You can sign up for our newsletter to receive updates in this space and our general development updates:
 
