@@ -46,3 +46,12 @@ household items, or what’s in the Zine, staying away from special components
 
 ## How will it made available?
 We’re still exploring how we make these available to people. We’re currently bringing physical copies in conventions we’re attending, but in the future we’ll look at making these available digitally and/or posting physical issues or collections.
+
+## Sign up for our newsletter!
+Interested in following the 52 Pickup series? Sign up to our newsletter to get email notifications whenever a new issue is available:
+
+<iframe
+    scrolling="no"
+    style="width:100%!important;height:150px;border:0px #ccc solid !important"
+    src="https://buttondown.email/CitySquareStudios?as_embed=true"
+></iframe>
