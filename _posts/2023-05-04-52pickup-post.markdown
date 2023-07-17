@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Introducing: 52 Pickup Zine"
-date:   2023-05-04 10:44:18 +1200
+date:   2023-04-04 10:44:18 +1200
 categories: 52pickup
 author: Dylan
 # Write unique excerpts that are used for SEO and previews
