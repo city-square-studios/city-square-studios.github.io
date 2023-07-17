@@ -29,7 +29,7 @@ A 2 player shared set collection card game where one player is trying wash away 
 ## Designer Notes
 
 ### Cherry Picker
-Cherry Picker was designed to be a very low rules weight game, that could be played for quick fun, or with children. I wanted it to be in the memory game space but still involve a little more strategy and bluffing to make it a little more interesting.
+Cherry Picker was designed to be a very lightweight game, that could be played for quick fun, or with children. I wanted it to be in the memory game space but still involve a little more strategy and bluffing to make it a little more interesting.
 
 I didn't use any other games for inspiration for this, just tried to pick as few mechanisms as I could! 
 
