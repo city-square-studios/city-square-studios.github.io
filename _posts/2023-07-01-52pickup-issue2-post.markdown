@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "52 Pickup: Issue #2 - Cocktails"
-date:   2023-05-15 10:44:18 +1200
+date:   2023-06-15 10:44:18 +1200
 categories: 52pickup
 author: Dylan
 # Write unique excerpts that are used for SEO and previews
