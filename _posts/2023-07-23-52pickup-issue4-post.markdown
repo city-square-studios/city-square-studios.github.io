@@ -22,12 +22,12 @@ Issue 4 (July 2023) of 52 Pickup is our first Roll and Write Edition, which cont
 
 ## The Game
 ### Goblin Dungeon
-A solitaire roll and write game, where you build a dungeon, and fill it with goblins and taps to try keep those greedy adventurers away from your trinkets! Also contains bonus rules for hero units and a multiplayer competitive variant. 
+A solitaire roll and write game where you build a dungeon, fill it with goblins, and set dastardly traps to try keep those greedy adventurers away from your trinkets! Also contains bonus rules for hero units and a competitive multiplayer variant.
 
 ## Designer Notes
 
 ### Goblin Dungeon
-I designed this game around capturing the feeling from playing classic choose your own adventure books, and classic Games Workshop/Steve Jackson games, while having a base building element. In the inspirations usually it's the player in conflict with space, trying to get to the end of a path to win the game. So in order to achieve my design goals I inverted this trope, so the player creates the space, and the conflict comes from stopping an outside force from reaching the end.
+I designed this game around capturing the feeling from playing classic 'choose your own adventure' books and classic Games Workshop/Steve Jackson games, while adding a base building element. In the inspirations it's usually the player in conflict with space, trying to get to the end of a path to win the game. So in order to achieve my design goals I inverted this trope; the player creates the space and the conflict comes from stopping an outside force from reaching the end.
 
 In keeping with the inspirations, the game is stacked a bit against the player, but there are plenty of ways to adjust difficulty.
 
