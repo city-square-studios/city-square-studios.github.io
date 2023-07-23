@@ -11,12 +11,14 @@ header:
   # Header image should be a wide aspect ratio  compressed `.jpg` format
   # image: /assets/images/logo_no_text.png
   # Teaser images should be at lower resolutions (i.e, ~500*300) compressed `.jpg` format
-  # teaser: /assets/images/logo_no_text.png
+  teaser: /assets/images/posts/2023-07-17-52pickup-issue3/zine_3_tile.png
   # Caption is rendered in the bottom-right corner of the image
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 Issue 3 (June 2023) of 52 Pickup is our second Standard Playing Card Edition, which contains two games you can play with a standard deck (or decks) of playing cards.
+
+![52 Pickup Zine](/assets/images/posts/2023-07-17-52pickup-issue3/zine_3_tile.png)
 
 ## The Games
 
