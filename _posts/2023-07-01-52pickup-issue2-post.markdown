@@ -18,6 +18,8 @@ header:
 
 Issue 2 (May 2023) of 52 Pickup is our first Cocktail Edition, which contains three cocktails inspired by board games that we believe will pair very well with the play experience.
 
+![52 Pickup Zine](/assets/images/posts/2023-07-01-52pickup-issue2/zine_2_tile.png)
+
 ## The Drinks
 
 ### Terragroni
