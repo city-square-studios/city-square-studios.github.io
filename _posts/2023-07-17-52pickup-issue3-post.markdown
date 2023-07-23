@@ -18,6 +18,8 @@ header:
 
 Issue 3 (June 2023) of 52 Pickup is our second Standard Playing Card Edition, which contains two games you can play with a standard deck (or decks) of playing cards.
 
+![52 Pickup Zine](/assets/images/posts/2023-07-17-52pickup-issue3/zine_3_tile.png)
+
 ## The Games
 
 ### Cherry Picker
