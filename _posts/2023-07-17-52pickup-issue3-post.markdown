@@ -40,7 +40,7 @@ I made this after Cyclone Gabrielle hit New Zealand to capture the feelings arou
 
 This conflict between narrative and mechanisms (known as Ludonarrative Dissonance), is a concept I'll be looking to explore in another blog post.
 
-The main games that inspired me was [Pyramid](https://boardgamegeek.com/boardgame/140480/pyramid).
+The main game that inspired me was [Pyramid](https://boardgamegeek.com/boardgame/140480/pyramid).
 
 ## Credits
 - Art by Josie Bedford (@josie.tattoos)
