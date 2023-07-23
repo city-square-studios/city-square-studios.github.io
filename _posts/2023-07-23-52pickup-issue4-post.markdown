@@ -11,14 +11,14 @@ header:
   # Header image should be a wide aspect ratio  compressed `.jpg` format
   # image: /assets/images/logo_no_text.png
   # Teaser images should be at lower resolutions (i.e, ~500*300) compressed `.jpg` format
-  teaser: /assets/images/posts/2023-07-17-52pickup-issue3/zine_3_tile.png
+  teaser: /assets/images/posts/2023-07-23-52pickup-issue4/zine_4_tile.png
   # Caption is rendered in the bottom-right corner of the image
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 Issue 4 (July 2023) of 52 Pickup is our first Roll and Write Edition, which contains a game you can play with a pencil, paper, and some six sided dice.
 
-<!-- ![52 Pickup Zine](/assets/images/posts/2023-07-17-52pickup-issue3/zine_3_tile.png) -->
+![52 Pickup Zine](/assets/images/posts/2023-07-23-52pickup-issue4/zine_4_tile.png)
 
 ## The Game
 ### Goblin Dungeon
