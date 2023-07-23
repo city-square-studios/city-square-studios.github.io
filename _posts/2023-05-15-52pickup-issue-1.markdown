@@ -18,7 +18,7 @@ header:
 
 Issue 1 (April 2023) of 52 Pickup is our first Standard Playing Card Edition, which contains two games you can play with a standard deck (or decks) of playing cards.
 
-![52 Pickup Zine](/assets/images/posts/2023-05-04-52pickup-intro/52pickup-issue-1.png)
+![52 Pickup Zine](/assets/images/posts/2023-05-15-52pickup-issue-1/zine_1_tile.png)
 
 ## The Games
 
