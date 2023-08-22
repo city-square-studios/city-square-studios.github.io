@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "52 Pickup: Issue #3 - Card Games"
+title:  "52 Pickup: Issue #3 - Cherry Picker and Eroded"
 date:   2023-06-15 10:44:18 +1200
 categories: 52pickup
 author: Dylan
