@@ -13,12 +13,10 @@ header:
   # Teaser images should be at lower resolutions (i.e, ~500*300) compressed `.jpg` format
   teaser: /assets/images/posts/2023-08-26-52pickup-updates/it_approaches.jpg
   # Caption is rendered in the bottom-right corner of the image
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  caption: "Updates & revisions"
 ---
 
 There are a few clarifications we’d like to make for issue #1 and #4 for 52 Pickup. Prints of the zines made past this date will have the clarifications written in.
-
----
 
 ## 52 Pickup: Issue #1 - Escape the Pet Shop! and It Approaches!
 
@@ -39,9 +37,7 @@ There are a few clarifications we’d like to make for issue #1 and #4 for 52 Pi
 - **Update Two:** In the 'Round' section bullet point 2 it should read:
 > *Reveal all Contributed cards and Conflict them, **the players whose cards lose** the Conflict discard the card they chose to Reserve*
 
----
-
-## ****52 Pickup: Issue #4 - Goblin Dungeon****
+## 52 Pickup: Issue #4 - Goblin Dungeon
 
 *Check out the 52 Pickup Issue #4 Blog Post [here](https://blog.citysquarestudios.com/52pickup/2023/07/14/52pickup-issue4-post.html)*
 
@@ -51,8 +47,6 @@ There are a few clarifications we’d like to make for issue #1 and #4 for 52 Pi
 - **Update One:** In the 'Goblins' section, the paragraph above the table can be ignored
 <br>
 - **Update Two:** In the 'Know your Enemy' section the last column label in the table is supposed to be labelled ***Adventurer Rolls***
-
----
 
 ## More Info
 You can find more information about 52 Pickup [here](https://blog.citysquarestudios.com/52pickup/2023/04/03/52pickup-post.html). 
