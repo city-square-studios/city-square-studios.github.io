@@ -42,7 +42,7 @@ With this drink, I focused on matching the experience of making it with the expe
 ## Availability
 52 Pickup is currently only available upon request (by emailing [hello@citysquarestudios.com](mailto:hello@citysquarestudios.com)) or physically at markets we attend. We are currently working on making 52 Pickup more easily accessible both online and physically.
 
-You can sign up for our newsletter to receive updates in this space and our general development updates:
+Sign up for our newsletter to receive updates about 52 Pickup:
 
 <iframe
     scrolling="no"

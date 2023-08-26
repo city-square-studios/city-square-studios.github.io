@@ -11,14 +11,14 @@ header:
   # Header image should be a wide aspect ratio  compressed `.jpg` format
   # image: /assets/images/logo_no_text.png
   # Teaser images should be at lower resolutions (i.e, ~500*300) compressed `.jpg` format
-  teaser: /assets/images/posts/2023-07-23-52pickup-issue4/zine_5_tile.png
+  teaser: /assets/images/posts/2023-08-27-52pickup-issue5/zine_5_tile.png
   # Caption is rendered in the bottom-right corner of the image
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 Issue 5 (August 2023) of 52 Pickup is our Tabletop Role-Playing Game Edition, which contains a game you can play with a pencil, paper, and a standard deck of cards.
 
-![52 Pickup Zine](/assets/images/posts/2023-07-23-52pickup-issue4/zine_5_tile.png)
+![52 Pickup Zine](/assets/images/posts/2023-08-27-52pickup-issue5/zine_5_tile.png)
 
 ## The Game
 
@@ -32,6 +32,12 @@ Originally this game’s central premise was that it was the TTRPG your fantasy 
 
 The main games I used for inspiration were [Paranoia](https://en.wikipedia.org/wiki/Paranoia_(role-playing_game)), [Powered by the Apocalypse](https://en.wikipedia.org/wiki/Powered_by_the_Apocalypse) systems, and the [World Wide Wrestling RPG](https://ndpdesign.com/wwwrpg).
 
+## Extras
+
+The Merger is the first issue of 52 Pickup that comes with optional downloadable components. Simply scan the QR code found in this issue to download a set of character sheets that you can print out for your next session of The Merger TTRPG.
+
+![Scan the QR code to download character sheets](/assets/images/posts/2023-08-27-52pickup-issue5/zine5_extras.png)
+
 ## Credits
 
 - Art by Erin Wood (@erinlaviniawood)
@@ -41,7 +47,7 @@ The main games I used for inspiration were [Paranoia](https://en.wikipedia.org/w
 ## Availability
 52 Pickup is currently only available upon request (by emailing [hello@citysquarestudios.com](mailto:hello@citysquarestudios.com)) or physically at markets we attend. We are currently working on making 52 Pickup more easily accessible both online and physically.
 
-You can sign up for our newsletter to receive updates in this space and our general development updates:
+Sign up for our newsletter to receive updates about 52 Pickup:
 
 <iframe
     scrolling="no"
