@@ -45,7 +45,7 @@ The Merger is the first issue of 52 Pickup that comes with optional downloadable
 - Produced by Daniel Gratwicke
 
 ## Availability
-52 Pickup is currently only available upon request (by emailing [hello@citysquarestudios.com](mailto:hello@citysquarestudios.com)) or physically at markets we attend. We are currently working on making 52 Pickup more easily accessible both online and physically.
+52 Pickup is currently only available upon request (by emailing [hello@citysquarestudios.com](mailto:hello@citysquarestudios.com)), at the [Hamilton City Library](https://www.hamiltonlibraries.co.nz) Zine vending machine, or physically at markets we attend. We are currently working on making 52 Pickup more easily accessible both online and physically.
 
 Sign up for our newsletter to receive updates about 52 Pickup:
 
