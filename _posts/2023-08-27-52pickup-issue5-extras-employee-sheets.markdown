@@ -2,7 +2,7 @@
 layout: single
 title:  "52 Pickup: Issue #5 - Employee Sheets"
 date:   2023-08-27 10:44:18 +1200
-categories: 52pickup, extras
+categories: 52pickup extras
 author: Dan
 # Write unique excerpts that are used for SEO and previews
 excerpt: Extra content for The Merger, a tabletop role-playing game
